@@ -7,3 +7,5 @@ def solution(A,B):
         answer += (A[i]*B[i])
     
     return answer
+
+# [1, 2, 3, 4, 5] / [10, 8, 6, 4, 2]
