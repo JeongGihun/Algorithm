@@ -44,8 +44,8 @@ def solution(str1, str2):
     
     # max_num이 0인 경우 div가 불가
     if max_num == 0 :
-        result = 1
+        result = 65536
+        return result
     else :
-        result = min_num / max_num
-    result = math.floor(result * 65536)
-    return result
+        result = math.floor((min_num / max_num) * 65536)
+        return result
