@@ -6,6 +6,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Array
 |  |
 | ------- |
+| [1470-shuffle-the-array](https://github.com/JeongGihun/Algorithm/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/JeongGihun/Algorithm/tree/master/1929-concatenation-of-array) |
 ## Simulation
 |  |
